@@ -421,6 +421,7 @@ main {
   background-image: url(../img/music1.jpg);
   background-repeat: no-repeat;
   background-position-x: 100%;
+  background-position-y: 45%;
   background-size: 100%;
 }
 
@@ -627,19 +628,6 @@ main {
   background-repeat: no-repeat;
   background-position-x: 0;
   background-size: 100%;
-}
-
-.main .top-ranking3 .top-ranking3-1-img {
-  position: absolute;
-  top: 18%;
-  right: -8%;
-  z-index: 2;
-  width: 35%;
-  height: 75%;
-  background-image: url(../img/music3-1.jpg);
-  background-repeat: no-repeat;
-  background-position-x: 0;
-  background-size: 50%;
 }
 
 .main .top-ranking3 .top-ranking3-rank-img {

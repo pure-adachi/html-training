@@ -197,6 +197,7 @@ main {
 }
 
 .main .word {
+  color: #ff6b6b;
   opacity: 1;
   width: auto;
   backface-visibility: hidden;
@@ -497,15 +498,15 @@ main {
   font-weight: 700;
   line-height: 1;
   margin-top: 13px;
-  padding-right: 270px;
+  padding-right: 3px;
 }
 
 .main .top-ranking2 .section-inner .top-ranking2-img {
   opacity: 1;
   clip: auto;
   position: absolute;
-  top: 20%;
-  left: 8%;
+  top: 40%;
+  left: 15%;
   width: 100%;
   height: 100%;
   background-image: url(../img/music2.jpg);
@@ -619,8 +620,8 @@ main {
   opacity: 1;
   clip: auto;
   position: absolute;
-  top: 44%;
-  left: 15%;
+  top: 40%;
+  left: 30%;
   width: 45%;
   height: 55%;
   background-image: url(../img/music3.jpg);
